@@ -1,0 +1,79 @@
+B#10#Alice#1984
+R#5#Bob#The Great Gatsby
+B#15#Charlie#Moby Dick
+P#8#Alice#1984
+R#20#David#To Kill a Mockingbird
+B#30#Eve#The Catcher in the Rye
+B#12#Frank#War and Peace
+R#7#Grace#The Odyssey
+B#25#Hannah#Crime and Punishment
+P#10#Ian#Brave New World
+B#18#Jack#Fahrenheit 451
+R#14#Kathy#The Picture of Dorian Gray
+B#22#Liam#Wuthering Heights
+R#9#Mia#Jane Eyre
+B#11#Noah#The Hobbit
+R#6#Olivia#The Lord of the Rings
+B#17#Paul#The Chronicles of Narnia
+R#13#Quinn#The Alchemist
+B#19#Rachel#The Kite Runner
+R#8#Sam#The Book Thief
+B#21#Tina#The Fault in Our Stars
+R#15#Uma#The Road
+B#16#Victor#The Bell Jar
+R#12#Wendy#Little Women
+B#14#Xander#The Grapes of Wrath
+R#10#Yara#The Handmaid's Tale
+B#20#Zane#The Secret Garden
+P#5#Alice#The Old Man and the Sea
+B#9#Bob#The Road Less Traveled
+R#11#Charlie#The Art of War
+B#13#David#Siddhartha
+R#7#Eve#The Metamorphosis
+B#15#Frank#The Brothers Karamazov
+R#10#Grace#The Count of Monte Cristo
+B#12#Hannah#The Divine Comedy
+R#8#Ian#The Hitchhiker's Guide to the Galaxy
+B#14#Jack#The Sun Also Rises
+R#6#Kathy#The Sound and the Fury
+B#18#Liam#The Stranger
+R#9#Mia#The Time Machine
+B#20#Noah#The Invisible Man
+R#11#Olivia#The War of the Worlds
+B#15#Paul#The Catch-22
+R#10#Quinn#The Color Purple
+B#12#Rachel#The Road to Reality
+R#8#Sam#The Wind-Up Bird Chronicle
+B#14#Tina#The Brief Wondrous Life of Oscar Wao
+R#6#Uma#The Amazing Adventures of Kavalier & Clay
+B#16#Victor#The Night Circus
+R#10#Wendy#The Goldfinch
+B#18#Xander#The Immortalists
+R#9#Yara#The Seven Husbands of Evelyn Hugo
+B#20#Zane#The Vanishing Half
+R#11#Alice#The Midnight Library
+B#12#Bob#The Guest List
+R#8#Charlie#The Silent Patient
+B#14#David#The Chain
+R#10#Eve#The Last Thing He Told Me
+B#16#Frank#The Paper Palace
+R#7#Grace#The Paris Library
+B#19#Hannah#The Song of Achilles
+R#5#Ian#The Tattooist of Auschwitz
+B#13#Jack#The Henna Artist
+R#9#Kathy#The Light We Lost
+B#15#Liam#The Nightingale
+R#10#Mia#The Woman in the Window
+B#12#Noah#The Guest Book
+R#8#Olivia#The Overstory
+B#14#Paul#The Dutch House
+R#6#Quinn#The Water Dancer
+B#18#Rachel#The Lying Game
+R#10#Sam#The Couple Next Door
+B#16#Tina#The Wife Between Us
+R#7#Uma#The Woman in Cabin 10
+B#20#Victor#The Chain
+R#11#Wendy#The Last Mrs. Parrish
+B#12#Xander#The Girl on the Train
+R#8#Yara#The Couple Next Door
+B#14#Zane#The Woman in Cabin 10

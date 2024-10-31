@@ -1,0 +1,80 @@
+The Great Gatsby#3#FALSE
+1984#2#TRUE
+To Kill a Mockingbird#0#FALSE
+The Catcher in the Rye#1#TRUE
+Moby Dick#5#FALSE
+Pride and Prejudice#4#FALSE
+War and Peace#2#TRUE
+The Odyssey#3#FALSE
+Crime and Punishment#1#TRUE
+Brave New World#6#FALSE
+Fahrenheit 451#2#FALSE
+The Picture of Dorian Gray#0#TRUE
+Wuthering Heights#3#FALSE
+Jane Eyre#4#FALSE
+The Hobbit#5#TRUE
+The Lord of the Rings#2#FALSE
+The Chronicles of Narnia#3#FALSE
+The Alchemist#1#TRUE
+The Kite Runner#4#FALSE
+The Book Thief#2#FALSE
+The Fault in Our Stars#3#TRUE
+The Road#1#FALSE
+The Bell Jar#0#TRUE
+Little Women#5#FALSE
+The Grapes of Wrath#2#FALSE
+The Handmaid's Tale#3#TRUE
+The Secret Garden#4#FALSE
+The Old Man and the Sea#1#TRUE
+The Road Less Traveled#2#FALSE
+The Art of War#3#FALSE
+Siddhartha#4#TRUE
+The Metamorphosis#2#FALSE
+The Brothers Karamazov#1#TRUE
+The Count of Monte Cristo#5#FALSE
+The Divine Comedy#3#FALSE
+The Hitchhiker's Guide to the Galaxy#2#TRUE
+The Sun Also Rises#4#FALSE
+The Sound and the Fury#1#TRUE
+The Stranger#3#FALSE
+The Time Machine#2#FALSE
+The Invisible Man#4#TRUE
+The War of the Worlds#1#FALSE
+The Catch-22#5#FALSE
+The Color Purple#3#TRUE
+The Road to Reality#2#FALSE
+The Wind-Up Bird Chronicle#1#TRUE
+The Brief Wondrous Life of Oscar Wao#4#FALSE
+The Amazing Adventures of Kavalier & Clay#2#FALSE
+The Night Circus#3#TRUE
+The Goldfinch#1#FALSE
+The Immortalists#5#FALSE
+The Seven Husbands of Evelyn Hugo#2#TRUE
+The Vanishing Half#4#FALSE
+The Midnight Library#3#FALSE
+The Guest List#1#TRUE
+The Silent Patient#2#FALSE
+The Chain#4#FALSE
+The Last Thing He Told Me#3#TRUE
+The Paper Palace#1#FALSE
+The Paris Library#5#FALSE
+The Song of Achilles#2#TRUE
+The Tattooist of Auschwitz#4#FALSE
+The Henna Artist#3#FALSE
+The Light We Lost#1#TRUE
+The Nightingale#2#FALSE
+The Woman in the Window#4#FALSE
+The Guest Book#3#TRUE
+The Overstory#1#FALSE
+The Dutch House#2#FALSE
+The Water Dancer#4#TRUE
+The Lying Game#3#FALSE
+The Couple Next Door#1#TRUE
+The Wife Between Us#2#FALSE
+The Woman in Cabin 10#4#FALSE
+The Chain#3#TRUE
+The Last Mrs. Parrish#1#FALSE
+The Wife Between Us#2#FALSE
+The Girl on the Train#4#TRUE
+The Couple Next Door#3#FALSE
+The Woman in Cabin 10#1#TRUE
